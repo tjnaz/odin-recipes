@@ -1,3 +1,5 @@
+## Version 0.0
+> June 01 | Pure HTML
 ### Recipes from Movies
 
 - This is the first project from the Odin Project.
@@ -10,3 +12,6 @@
 - Lists
 - Links and images
 - Git commit messages
+
+## Version 0.1
+> Add CSS
